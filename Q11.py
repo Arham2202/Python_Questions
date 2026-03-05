@@ -1,0 +1,3 @@
+#Q11 Python program to print the documents (syntax, description etc.) of Python built-in function(s).
+print(abs.__doc__)
+print(map.__doc__)
