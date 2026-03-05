@@ -1,3 +1,4 @@
+#Q7 File extension extractor
 filename = input("Input the Filename: ")
 
 f_extn = filename.split(".")
